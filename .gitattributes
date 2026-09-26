@@ -1,0 +1,3 @@
+# The list and its signature must stay byte for byte as signed.
+packs.json -text
+packs.json.sig -text
